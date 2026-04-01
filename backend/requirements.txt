@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+python-multipart
+sqlalchemy
+passlib[bcrypt]
+python-jose
+requests
+bcrypt==3.2.2
+python-dotenv
+openai
